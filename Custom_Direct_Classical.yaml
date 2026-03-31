@@ -8,7 +8,64 @@
 # TOTAL: 602 (Updated with new entries)
 
 payload:
-
+  - DOMAIN,beesport.livednow.com
+  - DOMAIN,gamepp.cf
+  - DOMAIN,hitpt.com
+  - DOMAIN,v2.950122.xyz
+  - DOMAIN,www.digit77.com
+  - DOMAIN,www.hddolby.com
+  - DOMAIN,www.hitpt.com
+  - DOMAIN-KEYWORD,m-team
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-SUFFIX,1ptba.com
+  - DOMAIN-SUFFIX,950122.xyz
+  - DOMAIN-SUFFIX,agsvpt.com
+  - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN-SUFFIX,btschool.club
+  - DOMAIN-SUFFIX,cctv.cn
+  - DOMAIN-SUFFIX,chinamobile.com
+  - DOMAIN-SUFFIX,cinefiles.info
+  - DOMAIN-SUFFIX,cmvideo.cn
+  - DOMAIN-SUFFIX,connects.icu
+  - DOMAIN-SUFFIX,dicmusic.com
+  - DOMAIN-SUFFIX,dnsany.com
+  - DOMAIN-SUFFIX,eastgame.org
+  - DOMAIN-SUFFIX,elm.com
+  - DOMAIN-SUFFIX,gcable.cn
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,gitv.tv
+  - DOMAIN-SUFFIX,gluster.org
+  - DOMAIN-SUFFIX,hdfans.org
+  - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,hdmayi.com
+  - DOMAIN-SUFFIX,hhan.club
+  - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,ianon.app
+  - DOMAIN-SUFFIX,intel.com
+  - DOMAIN-SUFFIX,iptorrents.com
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,keepfrds.com
+  - DOMAIN-SUFFIX,leaves.red
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,m-team.io
+  - DOMAIN-SUFFIX,mobaibox.com
+  - DOMAIN-SUFFIX,nextpt.net
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,ourbits.club
+  - DOMAIN-SUFFIX,ptcafe.club
+  - DOMAIN-SUFFIX,pterclub.com
+  - DOMAIN-SUFFIX,pthome.net
+  - DOMAIN-SUFFIX,pttime.online
+  - DOMAIN-SUFFIX,pttime.org
+  - DOMAIN-SUFFIX,rousi.zip
+  - DOMAIN-SUFFIX,sunnypt.top
+  - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,v4.plex.tv
+  - DOMAIN-SUFFIX,vmware.com
+  - DOMAIN-SUFFIX,yangshipin.cn
   - DOMAIN,beesport.livednow.com
   - DOMAIN,banyunxiaoxi.icu
   - DOMAIN,cdn.playwright.dev
