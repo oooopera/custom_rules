@@ -8,6 +8,16 @@
 # TOTAL: 602 (Updated with new entries)
 
 payload:
+  - DOMAIN,docker.1ms.run
+  - DOMAIN,docker.anye.in
+  - DOMAIN,dockerproxy.net
+  - DOMAIN,hub.1panel.dev
+  - DOMAIN,hub.rat.dev
+  - PROCESS-NAME,qbittorrent-nox
+  - PROCESS-NAME,qbittorrent-nox (deleted)
+  
+  - IP-CIDR,172.67.41.40/32,no-resolve
+  - IP-CIDR,104.22.50.225/32,no-resolve
   - DOMAIN,beesport.livednow.com
   - DOMAIN,gamepp.cf
   - DOMAIN,hitpt.com
