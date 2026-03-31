@@ -3,6 +3,36 @@
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Proxy.list
 # TOTAL: 16
 payload:
+  - DOMAIN,bing.com
+  - DOMAIN,botemoda.com
+  - DOMAIN,cios.dhitechnical.com
+  - DOMAIN,copilot.microsoft.com
+  - DOMAIN,dbeaver.com
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,bikeunchained.com
+  - DOMAIN-SUFFIX,dangsfly.com
+  - DOMAIN-SUFFIX,ecs.office.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,huami.com
+  - DOMAIN-SUFFIX,jellyfin.org
+  - DOMAIN-SUFFIX,keeflys.com
+  - DOMAIN-SUFFIX,livednow.com
+  - DOMAIN-SUFFIX,luobook.fun
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,neodb.social
+  - DOMAIN-SUFFIX,nextcloud.com
+  - DOMAIN-SUFFIX,ofiii.com
+  - DOMAIN-SUFFIX,onlyoffice.com
+  - DOMAIN-SUFFIX,orz-7.com
+  - DOMAIN-SUFFIX,ouo.io
+  - DOMAIN-SUFFIX,parallels.com
+  - DOMAIN-SUFFIX,simcitybuildit.com
+  - DOMAIN-SUFFIX,truenas.net
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,zerossl.com
   - DOMAIN,botemoda.com
   - DOMAIN,dhitechnical.com
   - DOMAIN-SUFFIX,4gtv.tv
