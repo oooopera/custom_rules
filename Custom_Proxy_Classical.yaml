@@ -2,22 +2,46 @@
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Proxy.list
 # TOTAL: 16
-
 payload:
+  - DOMAIN,botemoda.com
+  - DOMAIN,dhitechnical.com
+  - DOMAIN-SUFFIX,4gtv.tv
   - DOMAIN-SUFFIX,7pzzv.us
   - DOMAIN-SUFFIX,arduino.cc
+  - DOMAIN-SUFFIX,bikeunchained.com
   - DOMAIN-SUFFIX,clientservices.googleapis.com
   - DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,dangsfly.com
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,hinet.net
   - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,hoyoverse.com
+  - DOMAIN-SUFFIX,huami.com
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,jellyfin.org
+  - DOMAIN-SUFFIX,keeflys.com
+  - DOMAIN-SUFFIX,livednow.com
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,mirrorservice.org
   - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,neodb.social
+  - DOMAIN-SUFFIX,nextcloud.com
+  - DOMAIN-SUFFIX,ofiii.com
   - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,onlyoffice.com
+  - DOMAIN-SUFFIX,orz-7.com
+  - DOMAIN-SUFFIX,ouo.io
   - DOMAIN-SUFFIX,platformio.org
   - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,simcitybuildit.com
   - DOMAIN-SUFFIX,stun.playstation.net
+  - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,zerossl.com
+
 
