@@ -19,6 +19,7 @@ payload:
   - IP-CIDR,172.67.41.40/32,no-resolve
   - IP-CIDR,104.22.50.225/32,no-resolve
   - DOMAIN,beesport.livednow.com
+  - DOMAIN-KEYWORD,linuxdo.org
   - DOMAIN,gamepp.cf
   - DOMAIN,hitpt.com
   - DOMAIN,v2.950122.xyz
