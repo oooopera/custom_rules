@@ -9,6 +9,7 @@ payload:
   - DOMAIN,copilot.microsoft.com
   - DOMAIN,dbeaver.com
   - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,bikeunchained.com
   - DOMAIN-SUFFIX,dangsfly.com
