@@ -9,6 +9,7 @@
 
 payload:
   - DOMAIN,docker.1ms.run
+  - DOMAIN-SUFFIX,truenas.com
   - DOMAIN,docker.anye.in
   - DOMAIN,dockerproxy.net
   - DOMAIN,hub.1panel.dev
