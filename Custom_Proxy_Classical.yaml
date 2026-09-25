@@ -3,6 +3,7 @@
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Proxy.list
 # TOTAL: 16
 payload:
+  - DOMAIN,static.m-team.cc
   - DOMAIN,bing.com
   - DOMAIN,botemoda.com
   - DOMAIN,cios.dhitechnical.com
