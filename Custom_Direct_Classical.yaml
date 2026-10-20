@@ -9,6 +9,7 @@
 
 payload:
   - DOMAIN,docker.1ms.run
+  - DOMAIN-SUFFIX,htpt.cc
   - DOMAIN-SUFFIX,zerotier.com
   - DOMAIN-SUFFIX,gizwits.com
   - DOMAIN-SUFFIX,truenas.com
